@@ -260,6 +260,79 @@ DAY 5
 5. In order to make proper connection, delete the project from your laptop (Because we already pushed project in git)
 
 
+Java keywords
+new, class, access modifiers, static, this, super, throw, throws, try, catch, final, finally, data type, 
+
+Naming coversion in java
+* Should not use above things
+* homepage - homePage (Camel case)
+
+If you are creating package, package name
+* should start with small letter followed by camel case
+
+if you are crreating class
+* should start with Captial letter followed by camel case
+
+thisIsPackageName 
+ThisIsClassName
+thisIsMethodName
+ThisIsInterfaceName
+thisIsObjectName or ThisIsObjectName
+thisIsVariableName
+
+
+
+Syntax
+
+class 
+
+accessModifer class className {
+
+}
+
+e.g: public class GovtHospital {
+
+}
+
+
+method 
+
+accessModifer static/Non-static returnType nethodName() {
+
+}
+
+public void thisIsNonStaticMethod() {
+
+}
+
+public static void thisIsStaticMethod() {
+
+}
+
+Methods in Java
+
+1) main method 
+2) static method
+3) non static method
+
+With in a class
+* calling static method from a static method - directly call
+* calling static method from a non static method - directly call 
+
+* calling non-static from a static method - Object creation
+* calling non-static from a non static - Object creation/ directly call
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
